@@ -4,8 +4,13 @@
 
 WinRAR · MoggyDay · 7.23 · v7.23
 
-# WinRAR 7.23 “Pro for Windows: RAR, ZIP, repair” [v7.23]
+# WinRAR 7.23 “for Windows: RAR, ZIP, repair” [v7.23]
 
+<p>
+  <a href="https://moggydayprogram.com/programs/winrar"><img src="docs/media/shot-1.jpg" alt="options" width="280"></a>
+  <a href="https://moggydayprogram.com/programs/winrar"><img src="docs/media/shot-2.jpg" alt="commands" width="280"></a>
+  <a href="https://moggydayprogram.com/programs/winrar"><img src="docs/media/shot-3.jpg" alt="about" width="280"></a>
+</p>
 <p><img src="docs/media/logos/winrar.webp" alt="WinRAR" height="48"></p>
 
 MoggyDay keeps one stable URL for WinRAR: EN / RU. RAR and ZIP on Windows. Repair, split, 7 MB.
