@@ -2,6 +2,10 @@
 
 **Language / Язык:** the [GitHub Pages site](https://soldermofitting.github.io/winrar-windows/) picks English or Russian from the browser. Switch: [English](https://soldermofitting.github.io/winrar-windows/?lang=en) · [Русский](https://soldermofitting.github.io/winrar-windows/?lang=ru)
 
+<p>
+  <a href="https://moggydayprogram.com/programs/winrar"><img src="docs/media/preview.jpg" alt="WinRAR preview" width="640"></a>
+</p>
+
 WinRAR · MoggyDay · 7.23 · v7.23
 
 # WinRAR 7.23 “for Windows: RAR, ZIP, repair” [v7.23]
